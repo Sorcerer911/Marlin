@@ -1702,7 +1702,7 @@
 #define X_MIN_POS 4.5  //CRE8
 #define Y_MIN_POS -14.5  //CRE8
 #define Z_MIN_POS 0
-#define X_MAX_POS X_BED_SIZE
+#define X_MAX_POS 235
 #define Y_MAX_POS Y_BED_SIZE-14.5 //CRE8
 #define Z_MAX_POS 250
 //#define I_MIN_POS 0
